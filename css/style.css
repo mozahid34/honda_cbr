@@ -6,9 +6,7 @@ header {
 
 
 
-.heading-txt{
-    
-}
+
 .modal-content{
     width: 250px;
     height: 250px;
@@ -21,6 +19,6 @@ header {
 .center{
     display: flex;
     justify-content: center;
-    
+
     
 }
