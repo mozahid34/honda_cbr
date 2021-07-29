@@ -1,0 +1,26 @@
+header {
+    background-color: #264653;
+    
+
+}
+
+
+
+.heading-txt{
+    
+}
+.modal-content{
+    width: 250px;
+    height: 250px;
+}
+
+.gray{
+    filter: grayscale(100);
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    
+    
+}
